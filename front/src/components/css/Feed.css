@@ -1,4 +1,5 @@
 .feed {
 	display: flex;
-	flex-direction: 0.67;
+	flex-direction: column;
+	flex: 0.67;
 }
